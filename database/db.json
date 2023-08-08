@@ -1,0 +1,25 @@
+{
+  "productos": [
+    {
+      "nombre": "aceite",
+      "proveedor": "industries.a.c",
+      "categoria": "canasta familiar",
+      "precio": "16.000",
+      "id": 1
+    },
+    {
+      "nombre": "frijoles",
+      "proveedor": "campo",
+      "categoria": "canasta familiar",
+      "precio": "6.000",
+      "id": 3
+    },
+    {
+      "nombre": "lentejas",
+      "proveedor": "industries.a.c",
+      "categoria": "canasta familiar",
+      "precio": "3.000",
+      "id": 5
+    }
+  ]
+}
