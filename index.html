@@ -19,8 +19,18 @@
       <form class="crud-form">
         <input class="input_label" type="text" name="nombre" placeholder="Nombre del producto" required>
         <input class="input_label" type="text" name="proveedor" placeholder="Nombre del proveedor" required>
-        <input class="input_label" type="text" name="categoria" placeholder="Categoria" required>
-        <input class="input_label" type="number" name="precio" placeholder="Ingrese el precio" required>
+        <!-- <input class="input_label" type="text" name="categoria" placeholder="Categoria" required> -->
+        <!-- <label for="lang" >Categoria: </label> -->
+        
+            <select name="categoria" class="categoria" required>
+                <option >Seleccione una categoria</option>
+                <option value="Alimentos" >Alimentos</option>
+                <option value="Electrodomesticos" >Electrodomesticos</option>
+                <option value="Medicamentos" >Medicamentos</option>
+                <option value="Higiene Personal" >Higiene Personal</option>
+            </select>
+        
+        <input class="input_label" type="number" step="any"git name="precio" placeholder="Ingrese el precio" required>
         <input class="input_submit" type="submit" value="GUARDAR">
         <input type="hidden" name="id">
       </form>

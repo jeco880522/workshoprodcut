@@ -17,9 +17,16 @@
     {
       "nombre": "lentejas",
       "proveedor": "industries.a.c",
-      "categoria": "canasta familiar",
+      "categoria": "Alimentos",
       "precio": "3.000",
       "id": 5
+    },
+    {
+      "nombre": "acetaminofen",
+      "proveedor": "genfar",
+      "categoria": "Medicamentos",
+      "precio": "2.500",
+      "id": 8
     }
   ]
 }
