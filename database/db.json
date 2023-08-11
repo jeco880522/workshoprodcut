@@ -16,9 +16,9 @@
     },
     {
       "nombre": "lentejas",
-      "proveedor": "industries.a.c",
+      "proveedor": "campo",
       "categoria": "Alimentos",
-      "precio": "3.000",
+      "precio": "2.500",
       "id": 5
     },
     {
@@ -29,11 +29,11 @@
       "id": 8
     },
     {
-      "nombre": "bocinas",
-      "proveedor": "samsumng",
+      "nombre": "televisor",
+      "proveedor": "lg",
       "categoria": "Electrodomesticos",
-      "precio": "850.000",
-      "id": 9
+      "precio": "950.000",
+      "id": 10
     }
   ]
 }
