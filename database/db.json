@@ -3,14 +3,14 @@
     {
       "nombre": "aceite",
       "proveedor": "industries.a.c",
-      "categoria": "canasta familiar",
+      "categoria": "Medicamentos",
       "precio": "16.000",
       "id": 1
     },
     {
       "nombre": "frijoles",
       "proveedor": "campo",
-      "categoria": "canasta familiar",
+      "categoria": "Alimentos",
       "precio": "6.000",
       "id": 3
     },
@@ -27,6 +27,13 @@
       "categoria": "Medicamentos",
       "precio": "2.500",
       "id": 8
+    },
+    {
+      "nombre": "bocinas",
+      "proveedor": "samsumng",
+      "categoria": "Electrodomesticos",
+      "precio": "850.000",
+      "id": 9
     }
   ]
 }

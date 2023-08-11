@@ -4,7 +4,7 @@ body {
 }
   
 h1 {
-    font-size: 3em;
+    font-size: 2.5em;
 }
   
 h2 {
@@ -39,7 +39,7 @@ h2 {
 }
 
 .input_submit:hover, .edit:hover{
-    background: #d5e8ec;
+    background: #7bf67b;
 }
 
   
