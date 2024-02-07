@@ -1,6 +1,5 @@
 import { getProducts, postProduct, putProduct, deleteProduct } from "../js/services.js";
 
-
 const $d = document;
 const $table = $d.querySelector(".crud-table");
 const $form = $d.querySelector(".crud-form");
