@@ -1,6 +1,6 @@
 export async function getProducts (){
     try {
-        let res = await axios.get("https://jeco880522.github.io/workshoproduct/productos/")
+        let res = await axios.get("https://github.com/jeco880522/workshoproduct/productos/")
         let json = await res.data;
         return json;
     } catch (error) {
