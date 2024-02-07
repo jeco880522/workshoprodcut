@@ -1,4 +1,3 @@
-$d.addEventListener("DOMContentLoaded", getAll);
 import { getProducts, postProduct, putProduct, deleteProduct } from "../js/services.js";
 
 
