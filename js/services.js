@@ -5,7 +5,7 @@ export async function getProducts (){
         return json;
     } catch (error) {
         let message = error.statusText || "Ocurrió un error";
-        $table.insertAdjacentHTML("afterend", `Error: ${error.status}: ${message}`);
+        $form.insertAdjacentHTML("afterend", `Error: ${error.status}: ${message}`);
     }
 }
 
